@@ -1,0 +1,162 @@
+--- woocommerce expert
+
+Hello, How are you?
+I am Hacken.
+I am wordpress-woocommerce expert and have developed/customized serveral store sites.
+You can find my sites from here: github.com/wpshopla
+I always support full / complete / available supports.
+
+i know wordpress backend, which means can edit any plugins and control them.
+can edit any theme and it's settings, add extra elements to theme or plugin.
+
+For wp plugin, I have developed PPC_builder plugin, which can be found from here:
+https://github.com/WPSHOPLA/WP_PLUGIN/tree/master/PPC_Builder
+this is one that creates post and pages based on uploaded excel data and given template.
+
+I am PSD Slicer, CSs handler, html expert that can make brilliant elements.
+
+I hope to call and discuss with you.
+I will look forward your response.
+
+Regards.
+
+
+
+
+-- Wordpress expert
+Hello, How are you?
+I am Hacken and Wordpress expert.
+I'd like to join your team.
+i will explain my experience in Wordpress.
+
+1. Theme
+Wordpress,when it says, the beautiful theme is just flashed. The theme is first gate to make the site as beautiful and attractive.
+So far, Divi, Avada, Envato, X, Storefront, Zeimen (client specific) ..., experienced in various theme .
+As the theme has embeded composer, it is easy to make page. By  my think, the divi's library feature is very good.
+And speed is also good. I always care performance when building site.
+Able to make child theme to prevent lost from theme update, make changes in structure of theme.
+Experienced with Woocommerce sub theme structure modification.
+To edit the theme, mastered in wpdb, wp_post, wp_title, loop, function.php, etc.
+I have store the theme I edited before at here.
+https://github.com/WPSHOPLA/WP_THEME
+
+
+2. Plugin
+So far, I have made serveral plugins, but the most frequent thought plugin is PTP_BUILDER.
+This plugin is made for auto generation of Page/Post using excel data uploaded via this plugin and ACF variables.
+This plugin is built for Corey Zeimen for my previous clients.
+You can find this plugin from my git, too.
+https://github.com/WPSHOPLA/WP_PLUGIN/tree/master/PPC_Builder
+Able to edit other plugins as much as it is not written protected.
+Most of works was to modify structure and remove collisions, speedup.
+Most experienced in S3, yoast, betterfy, contact form 7, woocommerce. Membership, WP Calendar.
+
+3. Configuration for multi language, multi site
+For multi site, I can edit wp config and setup db.
+For multi lang site, got used to WPML.
+
+I think above 2 are the most important and frequently discussed problems.
+
+Addition to this, I can integrated with 3rd Api, CRM System.
+Zapier, VCita, Leadin, Kixie, Pipedrive, Formidable Form, Zendesk
+
+I'd like to support you fully, full time, full of kindness.
+
+Regards.
+
+
+(WP SITES)
+Can i show you my wordpress site respository and sites.
+My github link is: github.com/wpshopla
+You can see wp, shopify, laravel projects listed at there.
+Each site has it's own site link.
+guaranteedppc.com, pureformgolf.com, aerialpixels.com, etc.
+
+
+--- Laravel
+
+
+
+
+Hello, My name is Hacken.
+How are you?
+
+I am laravel expert with laravel 4.5, 5.03, 5.4.
+I have developed 2 big erp/crm system and 2 sites.
+
+1. https://github.com/WPSHOPLA/MuzBNB_Laravel
+2. https://github.com/WPSHOPLA/MultiVendor_CRM_Laravel5.04
+3. https://github.com/WPSHOPLA/MilkDelivery_ERP_System_Laravel5.3
+4. https://github.com/WPSHOPLA/LimitResource_Laravel
+
+So, I have experience with Laravel as Following:
+
+-- Chatter implemention with https://github.com/thedevdojo/chatter
+-- Payment implemention with Paypal Php SDK
+Chained payment(Adaptive), simple payment
+-- Sitemap Build with https://github.com/spatie/laravel-sitemap
+--For multi ecommerce site: 
+User signup/confirm email/password recovery feature
+
+I'd like to discuss with you.
+Regards
+
+
+
+
+
+-- Angular2 
+
+Hello, Nice to meet you.
+I think this job is concerned with Angular Template management.
+I am very interested in what kind of template you mean.
+As the angular combines the template with javascript/html from the model and controller to render dynamic view a user sees in the browser, if I can get info about your template, that would be great to understand about this job.
+
+Recently days, I have intended to Admin HTML Template development.
+akveo.github.io/ng2-admin
+Developed with Angular2, bootstrap and webpack.
+
+So far i have developed many web apps and statistic module , listed here.
+integral.solutions/p-solutions/portfolio-strategies/
+I am very glad to co-work with international team.
+
+I am ready to call about project, my experience, our contract.
+
+Hacken.
+
+-- Shopify expert
+Hello, How are you?
+My name is hacken and I'd like to apply to your job.
+I see you are looking for shopify expert. 
+Why I think I am expert in Shopify?
+Because: 
+ 1) I can customize or make sth as you wish.Really!
+  I have mastered the tag/object usage in shopify liquid. 
+ 2) I have integrated so many apps and master various essential apps related with the shipping and order management, subscription
+ 3) Beautiful site development from scratch or design, with high performance
+
+- Shopify Job history
+1. mycrimsonbox.com
+Questionnaire App Development
+
+2. vivolife.co.uk
+Copied all Wordpress blog and Posts , orders to Shopify, Make new page template and slick slider products
+Google web master tools/sitemap setup and re-indexing.
+
+3 .Medicine, Recipe, Food with Subscrption
+cognizance.myshopify.com
+Bug fix - Javascript issue in Shopify variants needs fix to integrate Recurring Payments app
+
+4. asquarednutrition.com
+Product page, Home page layout change, AMP Optimized
+
+I 'd like to discuss with you.
+Regards.
+
+
+-- Laravel site
+
+1. https://github.com/WPSHOPLA/MuzBNB_Laravel
+2. https://github.com/WPSHOPLA/MultiVendor_CRM_Laravel5.04
+3. https://github.com/WPSHOPLA/MilkDelivery_ERP_System_Laravel5.3
+4. https://github.com/WPSHOPLA/LimitResource_Laravel
